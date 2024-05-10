@@ -1,6 +1,7 @@
-Grupo: Innotech Hub
-Integrates: Felipe Alamino (555819), Davi Vieira (556789), Luca Monteiro (556906), Victor Henrique (558258), Pedro Sampaio (555613)
 # CP2_EDGE - Projeto de IOT para Vinheria Agnello
+- Grupo: Innotech Hub
+- Integrates: Felipe Alamino (555819), Davi Vieira (556789), Luca Monteiro (556906), Victor Henrique (558258), Pedro Sampaio (555613)
+
 -> Contextualização
 A Vinheria Agnello solicitou a implementação de um sistema de monitoramento ambiental para garantir as condições ideais de armazenamento de seus vinhos. O projeto envolve a utilização de sensores para medir temperatura, umidade e intensidade de luz no ambiente, exibindo os resultados em um display LCD e acionando LEDs e um buzzer para alertar sobre possíveis desvios das condições ideais.
 
