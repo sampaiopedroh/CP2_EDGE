@@ -1,4 +1,4 @@
-
+Grupo: Innotech Hub
 Integrates: Felipe Alamino (555819), Davi Vieira (556789), Luca Monteiro (556906), Victor Henrique (558258), Pedro Sampaio (555613)
 # CP2_EDGE - Projeto de IOT para Vinheria Agnello
 -> Contextualização
